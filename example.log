@@ -1,0 +1,192 @@
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\pfaff\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:find_element: sign_up_for_offers_close_button: <class 'selenium.common.exceptions.NoSuchElementException'>, error msg: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="closeIconSvg"]"}
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00F36643]
+	(No symbol) [0x00ECBE21]
+	(No symbol) [0x00DCDA9D]
+	(No symbol) [0x00E01342]
+	(No symbol) [0x00E0147B]
+	(No symbol) [0x00E38DC2]
+	(No symbol) [0x00E1FDC4]
+	(No symbol) [0x00E36B09]
+	(No symbol) [0x00E1FB76]
+	(No symbol) [0x00DF49C1]
+	(No symbol) [0x00DF5E5D]
+	GetHandleVerifier [0x011AA142+2497106]
+	GetHandleVerifier [0x011D85D3+2686691]
+	GetHandleVerifier [0x011DBB9C+2700460]
+	GetHandleVerifier [0x00FE3B10+635936]
+	(No symbol) [0x00ED4A1F]
+	(No symbol) [0x00EDA418]
+	(No symbol) [0x00EDA505]
+	(No symbol) [0x00EE508B]
+	BaseThreadInitThunk [0x76B07D69+25]
+	RtlInitializeExceptionChain [0x7727BB9B+107]
+	RtlClearBits [0x7727BB1F+191]
+
+INFO:root:find_element: sign_up_for_offers_close_button: <class 'selenium.common.exceptions.NoSuchElementException'>, error msg: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="closeIconSvg"]"}
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00F36643]
+	(No symbol) [0x00ECBE21]
+	(No symbol) [0x00DCDA9D]
+	(No symbol) [0x00E01342]
+	(No symbol) [0x00E0147B]
+	(No symbol) [0x00E38DC2]
+	(No symbol) [0x00E1FDC4]
+	(No symbol) [0x00E36B09]
+	(No symbol) [0x00E1FB76]
+	(No symbol) [0x00DF49C1]
+	(No symbol) [0x00DF5E5D]
+	GetHandleVerifier [0x011AA142+2497106]
+	GetHandleVerifier [0x011D85D3+2686691]
+	GetHandleVerifier [0x011DBB9C+2700460]
+	GetHandleVerifier [0x00FE3B10+635936]
+	(No symbol) [0x00ED4A1F]
+	(No symbol) [0x00EDA418]
+	(No symbol) [0x00EDA505]
+	(No symbol) [0x00EE508B]
+	BaseThreadInitThunk [0x76B07D69+25]
+	RtlInitializeExceptionChain [0x7727BB9B+107]
+	RtlClearBits [0x7727BB1F+191]
+
+INFO:root:find_element: sign_up_for_offers_close_button: <class 'selenium.common.exceptions.NoSuchElementException'>, error msg: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="closeIconContainer"]"}
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00F36643]
+	(No symbol) [0x00ECBE21]
+	(No symbol) [0x00DCDA9D]
+	(No symbol) [0x00E01342]
+	(No symbol) [0x00E0147B]
+	(No symbol) [0x00E38DC2]
+	(No symbol) [0x00E1FDC4]
+	(No symbol) [0x00E36B09]
+	(No symbol) [0x00E1FB76]
+	(No symbol) [0x00DF49C1]
+	(No symbol) [0x00DF5E5D]
+	GetHandleVerifier [0x011AA142+2497106]
+	GetHandleVerifier [0x011D85D3+2686691]
+	GetHandleVerifier [0x011DBB9C+2700460]
+	GetHandleVerifier [0x00FE3B10+635936]
+	(No symbol) [0x00ED4A1F]
+	(No symbol) [0x00EDA418]
+	(No symbol) [0x00EDA505]
+	(No symbol) [0x00EE508B]
+	BaseThreadInitThunk [0x76B07D69+25]
+	RtlInitializeExceptionChain [0x7727BB9B+107]
+	RtlClearBits [0x7727BB1F+191]
+
+INFO:root:find_element: sign_up_for_offers_close_button: <class 'selenium.common.exceptions.NoSuchElementException'>, error msg: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="closeIconSvg"]"}
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00F36643]
+	(No symbol) [0x00ECBE21]
+	(No symbol) [0x00DCDA9D]
+	(No symbol) [0x00E01342]
+	(No symbol) [0x00E0147B]
+	(No symbol) [0x00E38DC2]
+	(No symbol) [0x00E1FDC4]
+	(No symbol) [0x00E36B09]
+	(No symbol) [0x00E1FB76]
+	(No symbol) [0x00DF49C1]
+	(No symbol) [0x00DF5E5D]
+	GetHandleVerifier [0x011AA142+2497106]
+	GetHandleVerifier [0x011D85D3+2686691]
+	GetHandleVerifier [0x011DBB9C+2700460]
+	GetHandleVerifier [0x00FE3B10+635936]
+	(No symbol) [0x00ED4A1F]
+	(No symbol) [0x00EDA418]
+	(No symbol) [0x00EDA505]
+	(No symbol) [0x00EE508B]
+	BaseThreadInitThunk [0x76B07D69+25]
+	RtlInitializeExceptionChain [0x7727BB9B+107]
+	RtlClearBits [0x7727BB1F+191]
+
+INFO:root:find_element: sign_up_for_offers_close_button: <class 'selenium.common.exceptions.NoSuchElementException'>, error msg: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="closeIconSvg"]/line[1]"}
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00F36643]
+	(No symbol) [0x00ECBE21]
+	(No symbol) [0x00DCDA9D]
+	(No symbol) [0x00E01342]
+	(No symbol) [0x00E0147B]
+	(No symbol) [0x00E38DC2]
+	(No symbol) [0x00E1FDC4]
+	(No symbol) [0x00E36B09]
+	(No symbol) [0x00E1FB76]
+	(No symbol) [0x00DF49C1]
+	(No symbol) [0x00DF5E5D]
+	GetHandleVerifier [0x011AA142+2497106]
+	GetHandleVerifier [0x011D85D3+2686691]
+	GetHandleVerifier [0x011DBB9C+2700460]
+	GetHandleVerifier [0x00FE3B10+635936]
+	(No symbol) [0x00ED4A1F]
+	(No symbol) [0x00EDA418]
+	(No symbol) [0x00EDA505]
+	(No symbol) [0x00EE508B]
+	BaseThreadInitThunk [0x76B07D69+25]
+	RtlInitializeExceptionChain [0x7727BB9B+107]
+	RtlClearBits [0x7727BB1F+191]
+
+INFO:root:find_element: sign_up_for_offers_close_button: <class 'selenium.common.exceptions.NoSuchElementException'>, error msg: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="closeIconSvg"]/line[2]"}
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00F36643]
+	(No symbol) [0x00ECBE21]
+	(No symbol) [0x00DCDA9D]
+	(No symbol) [0x00E01342]
+	(No symbol) [0x00E0147B]
+	(No symbol) [0x00E38DC2]
+	(No symbol) [0x00E1FDC4]
+	(No symbol) [0x00E36B09]
+	(No symbol) [0x00E1FB76]
+	(No symbol) [0x00DF49C1]
+	(No symbol) [0x00DF5E5D]
+	GetHandleVerifier [0x011AA142+2497106]
+	GetHandleVerifier [0x011D85D3+2686691]
+	GetHandleVerifier [0x011DBB9C+2700460]
+	GetHandleVerifier [0x00FE3B10+635936]
+	(No symbol) [0x00ED4A1F]
+	(No symbol) [0x00EDA418]
+	(No symbol) [0x00EDA505]
+	(No symbol) [0x00EE508B]
+	BaseThreadInitThunk [0x76B07D69+25]
+	RtlInitializeExceptionChain [0x7727BB9B+107]
+	RtlClearBits [0x7727BB1F+191]
+
+INFO:root:find_element: sign_up_for_offers_close_button: <class 'selenium.common.exceptions.NoSuchElementException'>, error msg: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/main/div/button/svg"}
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00F36643]
+	(No symbol) [0x00ECBE21]
+	(No symbol) [0x00DCDA9D]
+	(No symbol) [0x00E01342]
+	(No symbol) [0x00E0147B]
+	(No symbol) [0x00E38DC2]
+	(No symbol) [0x00E1FDC4]
+	(No symbol) [0x00E36B09]
+	(No symbol) [0x00E1FB76]
+	(No symbol) [0x00DF49C1]
+	(No symbol) [0x00DF5E5D]
+	GetHandleVerifier [0x011AA142+2497106]
+	GetHandleVerifier [0x011D85D3+2686691]
+	GetHandleVerifier [0x011DBB9C+2700460]
+	GetHandleVerifier [0x00FE3B10+635936]
+	(No symbol) [0x00ED4A1F]
+	(No symbol) [0x00EDA418]
+	(No symbol) [0x00EDA505]
+	(No symbol) [0x00EE508B]
+	BaseThreadInitThunk [0x76B07D69+25]
+	RtlInitializeExceptionChain [0x7727BB9B+107]
+	RtlClearBits [0x7727BB1F+191]
+
